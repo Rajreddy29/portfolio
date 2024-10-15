@@ -16,7 +16,7 @@
 - Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring and telemetry processing.
 
 ## Projects
-### Traffic Control System
+### Traffic Control System using reinforcement learning
 [Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
 Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation.
