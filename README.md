@@ -1,25 +1,25 @@
-# Data Scientist
+# Data Scientist/Machine Learning Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
-- B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
+- B.Thttps://github.com/shreshtagundoji/portfolio/tree/mainech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
 ## Work Experience
-**Machine Learning Intern @ Eitacies Inc (September 2024-Present)**
-- Developed state-of-the-art tool to extract audio from virtual meetings and transcribe text for detecting and flagging inappropriate content by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection, contributing to a 12% improvement in detection accuracy.
-- Engineered MLOps pipelines in Kubernetes and AWS, streamlining the deployment of ML models and collaborated with cross-functional teams achieving a 40% reduction in model deployment time.
+**Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
+- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection, contributing to a 12% improvement in detection accuracy.
+- Engineered MLOps pipelines in Kubernetes and AWS, streamlining the deployment of ML models.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
+- Developed customer analytics automation systems, transformed engagement tools, and enhanced predictive modeling for optimizing decision-making. 
+- Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring and telemetry processing.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Traffic Control System
+[Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
