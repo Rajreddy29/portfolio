@@ -1,6 +1,6 @@
 # Data Scientist/Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, SQL, NLP, AWS, Kubernetes
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
@@ -16,19 +16,16 @@
 - Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring and telemetry processing.
 
 ## Projects
+### Big Data Analysis
+
+Utilized big data analytics for large scale Spanish books using MapReduce and Spark, improving data processing speed by 30%.
+
 ### Traffic Control System using reinforcement learning
 [Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
-Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation.
+Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
 
 ![Dynamic traffic control at mutil-lane section using SUMO simulation](/assets/traffic.png)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 - [Data Science Blog](https://medium.com/@shawhin)
