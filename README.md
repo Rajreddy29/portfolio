@@ -21,7 +21,7 @@
 
 Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Dynamic traffic control at mutil-lane section using SUMO simulation](/assets/traffic.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
