@@ -4,7 +4,7 @@
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
-- B.Thttps://github.com/shreshtagundoji/portfolio/tree/mainech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
+- B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
 ## Work Experience
 **Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
