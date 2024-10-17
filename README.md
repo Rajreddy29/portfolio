@@ -30,4 +30,9 @@ Utilized **Python** and **reinforcement learning** techniques to optimize traffi
 ### Invoice Detection and Text Extraction
 [Github link](https://github.com/shreshtagundoji/PaddleOCR-InvoiceDetection)
 
-The application aims to develop an automated system for detecting and extracting information from receipts using **Computer Vision and NLP techniques** - PaddleOCR. The system will streamline the process of handling receipts by accurately identifying and extracting key details such as receipt number, date, total amount, and vendor information from scanned or digital receipts.
+Built an automated system for detecting and extracting information from receipts using **Computer Vision and NLP techniques** - PaddleOCR. The system will streamline the process of handling receipts by accurately identifying and extracting key details such as receipt number, date, total amount, and vendor information from scanned or digital receipts.
+
+### Fake News Detection
+[Github link](https://github.com/shreshtagundoji/Fake-News-Detection-Kaggle/tree/main)
+
+Developed an advanced text classification model. The model employs a hybrid architecture that combines traditional and **deep learning** approaches like text embedding, CNN, LSTM, and dropout layers, achieving 99.46% accuracy, demonstrating effective learning and generalization in text classification tasks.
