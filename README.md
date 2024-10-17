@@ -17,7 +17,7 @@
 - Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring.
 
 ## Certifications
-[Ceritificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
+[Certificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
 
 - **Microsoft Certified** : Azure AI Engineer Associate, Azure Developer Associate
 - **Deeplearning.ai** : Machine Learning Specialization
