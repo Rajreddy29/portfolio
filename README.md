@@ -12,8 +12,9 @@
 - Engineered MLOps pipelines on cloud-based services, streamlining the deployment of ML models.
 
 **Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
-- Developed customer analytics automation systems, transformed engagement tools, and enhanced predictive modeling for optimizing decision-making. 
-- Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring and telemetry processing.
+- Developed customer analytics automation systems and transformed engagement tools.
+- Built predictive modeling for optimizing decision-making.
+- Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring.
 
 ## Certifications
 [Ceritificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
