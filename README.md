@@ -27,7 +27,7 @@
 
 Utilized **Python** and **reinforcement learning** techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
 
-<img src="/assets/traffic.png" alt="Dynamic traffic control at multi-lane section using SUMO simulation" width="500">
+<div align="center"> <img src="/assets/traffic.png" alt="Dynamic traffic control at multi-lane section using SUMO simulation" width="500" height="300"> </div>
 
 ### Invoice Detection and Text Extraction
 [Github link](https://github.com/shreshtagundoji/PaddleOCR-InvoiceDetection)
