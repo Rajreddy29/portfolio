@@ -26,7 +26,7 @@
 ### Fake News Detection
 [Github link](https://github.com/shreshtagundoji/Fake-News-Detection-Kaggle/tree/main)
 
-Developed an advanced text classification model. The model employs a hybrid architecture that combines traditional and **deep learning** approaches like text embedding, CNN, LSTM, and dropout layers, achieving 99.46% accuracy, demonstrating effective learning and generalization in text classification tasks.
+Developed an advanced text classification model. The model employs a hybrid architecture that combines traditional and **Deep Learning** approaches like text embedding, CNN, LSTM, and dropout layers, achieving 99.46% accuracy, demonstrating effective learning and generalization in text classification tasks.
 
 ### Traffic Signal Control System
 [Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
