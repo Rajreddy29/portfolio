@@ -5,11 +5,6 @@
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
-  
-## Certifications
-[Ceritificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
-- **Microsoft Certified** : Azure Developer Associate
-- **Microsoft Certified** : Azure AI Engineer Associate
 
 ## Work Experience
 **Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
@@ -20,16 +15,21 @@
 - Developed customer analytics automation systems, transformed engagement tools, and enhanced predictive modeling for optimizing decision-making. 
 - Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring and telemetry processing.
 
+## Certifications
+[Ceritificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
+
+- **Microsoft Certified** : Azure AI Engineer Associate, Azure Developer Associate
+- **Deeplearning.ai** : Machine Learning Specialization
+
 ## Projects
 ### Traffic Control System using reinforcement learning
 [Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
-Utilized reinforcement learning techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
+Utilized **Python** and **reinforcement learning** techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
 
 ![Dynamic traffic control at mutil-lane section using SUMO simulation](/assets/traffic.png)
 
-### Big Data Analysis
+### Invoice Detection and Text Extraction
+[Github link](https://github.com/shreshtagundoji/PaddleOCR-InvoiceDetection)
 
-
-
-- [Data Science Blog](https://medium.com/@shawhin)
+The application aims to develop an automated system for detecting and extracting information from receipts using **Computer Vision and NLP techniques** - PaddleOCR. The system will streamline the process of handling receipts by accurately identifying and extracting key details such as receipt number, date, total amount, and vendor information from scanned or digital receipts.
