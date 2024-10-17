@@ -1,15 +1,20 @@
 # Data Scientist/Machine Learning Engineer
 
-#### Technical Skills: Python, R, SQL, NLP, AWS, Kubernetes
+#### Technical Skills: Python, R, SQL, NLP, AWS, Azure, Kubernetes
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
+  
+## Certifications
+[Ceritificates](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
+- **Microsoft Certified** : Azure Developer Associate
+- **Microsoft Certified** : Azure AI Engineer Associate
 
 ## Work Experience
 **Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
-- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection, contributing to a 12% improvement in detection accuracy.
-- Engineered MLOps pipelines in Kubernetes and AWS, streamlining the deployment of ML models.
+- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection, contributing to a 12% improvement in the accuracy.
+- Engineered MLOps pipelines on cloud-based services, streamlining the deployment of ML models.
 
 **Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
 - Developed customer analytics automation systems, transformed engagement tools, and enhanced predictive modeling for optimizing decision-making. 
@@ -23,12 +28,7 @@ Utilized reinforcement learning techniques to optimize traffic signal control in
 
 ![Dynamic traffic control at mutil-lane section using SUMO simulation](/assets/traffic.png)
 
-
-- [Data Science Blog](https://medium.com/@shawhin)
-- 
 ### Big Data Analysis
-
-Utilized big data analytics for large scale Spanish books using MapReduce and Spark, improving data processing speed by 30%.
 
 
 
