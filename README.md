@@ -8,13 +8,13 @@
 
 ## Work Experience
 **Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
-- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection, contributing to a 12% improvement in the accuracy.
+- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection.
 - Engineered MLOps pipelines on cloud-based services, streamlining the deployment of ML models.
 
 **Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
-- Developed customer analytics automation systems and transformed engagement tools.
-- Built predictive modeling for optimizing decision-making.
-- Designed anomaly detection algorithms, built RESTful APIs, and implemented data pipelines for real-time service monitoring.
+- Developed customer analytics automation systems and transformed KPMG engagement tools.
+- Designed anomaly detection algorithms and predictive modeling for optimizing decision-making.
+- Built RESTful APIs, and implemented data pipelines for real-time service monitoring.
 
 ## Certifications
 [Certificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
