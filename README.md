@@ -27,7 +27,7 @@
 
 Developed an advanced text classification model. The model employs a hybrid architecture that combines traditional and **deep learning** approaches like text embedding, CNN, LSTM, and dropout layers, achieving 99.46% accuracy, demonstrating effective learning and generalization in text classification tasks.
 
-### Traffic Control System using reinforcement learning
+### Traffic Control System using Deep Reinforcement Learning
 [Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
 Utilized **Python** and **reinforcement learning** techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
