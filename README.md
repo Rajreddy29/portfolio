@@ -7,7 +7,7 @@
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
   
 ## Certifications
-[Ceritificates](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
+[Ceritificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
 - **Microsoft Certified** : Azure Developer Associate
 - **Microsoft Certified** : Azure AI Engineer Associate
 
