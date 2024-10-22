@@ -1,6 +1,6 @@
-# Data Scientist/Machine Learning Engineer
+# Software Engineer/Data Analyst
 
-#### Technical Skills: Python, R, SQL, NLP, AWS, Azure, Kubernetes
+#### Technical Skills: JavaScript, Python, SQL, HTML5, CSS3, React,
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
@@ -8,21 +8,35 @@
 
 ## Work Experience
 **Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
-- Developed state-of-the-art tool by engineering statistical methods, optimization techniques, NLP analysis for audio transcription, and sentiment detection.
-- Engineered MLOps pipelines on cloud-based services, streamlining the deployment of ML models.
+- Developed data models, pipelines and configured MongoDB.
+- Built report and dashboards.
 
 **Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
 - Developed customer analytics automation systems and transformed KPMG engagement tools.
-- Designed anomaly detection algorithms and predictive modeling for optimizing decision-making.
-- Built RESTful APIs, and implemented data pipelines for real-time service monitoring.
+- Built RESTful APIs, and implemented CI/CD pipelines for real-time service monitoring.
 
 ## Certifications
 [Certificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
 
-- **Microsoft Certified** : Azure AI Engineer Associate, Azure Developer Associate
+- **Microsoft Certified** : Azure Developer Associate, Azure DevOps Engineer Expert, Azure AI Engineer Associate,
 - **Deeplearning.ai** : Machine Learning Specialization
 
 ## Projects
+### Full-Stack Chess Application with AI Opponent		
+[Github link](https://github.com/shreshtagundoji/Chess-Application-Python)
+
+Optimized a full-stack chess application using Python, reinforcement learning, and Flask, reducing AI response time by 30 seconds while improving gameplay experience for users.
+
+### Banking AI Chatbot 
+[Github link](https://github.com/shreshtagundoji/BankingBot-AWS-Lambda)
+
+Developed BankerBot, an AI-powered banking chatbot using Amazon Lex and AWS Lambda, enabling users to check account balances and transfer funds securely and an automated deployment via AWS CloudFormation that reduced setup time by 50%.
+
+### AWS CI/CD Pipeline Implementation for Java Web Application
+[Github link](https://github.com/shreshtagundoji/AWS-CI-CD-Pipeline-CloudFormation)
+
+Developed and deployed an automated CI/CD pipeline using AWS services, Maven, and Apache Tomcat, reducing deployment time by 7 hours, and enhancing scalability and maintainability on EC2.
+
 ### Fake News Detection
 [Github link](https://github.com/shreshtagundoji/Fake-News-Detection-Kaggle/tree/main)
 
