@@ -8,14 +8,15 @@
 
 ## Work Experience
 **Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
-- Developed of the e-commerce application and integrated REST APIs in Python across backend services and Mongo DB.
-- Developed data management system, pipelines and configured MongoDB.
+- Contributed in the developement of the e-commerce application and integrated REST APIs in Python across backend services and Mongo DB.
+- Developed data management system and configured MongoDB.
 - Built report and dashboards.
 
 **Software Engineer @ KPMG Global Services (November 2020 - Aug 2023)**
 - Optimized web application for one of the top Fintech company in the US, by automating the core financial tasks, integrations and workflow operations.
-- Transformed Sentinel (KPMG's client engagement acceptance tool) by optimizing server-side and client-side of the application, and Angular-based dashboards, where the tool supports 10,000+ KPMG audit personnel globally and reducing client onboarding time by 30%.
+- Transformed Sentinel application by optimizing server-side and client-side of the application, reducing client onboarding time by 30%.
 - Maintained a comprehensive testing protocol for the platform upgrades to certify all functionalities in the production.
+- Built Angular-based dashboards, used by 10,000+ KPMG audit personnel globally.
 - Developed application catalogs, integrated jQuery for responsive UI elements for KGS internal app.
 - Implemented CI/CD pipelines between internal applications with real-time pipeline monitoring.
 - Monitored application performance and activity, identified and resolved issues.
