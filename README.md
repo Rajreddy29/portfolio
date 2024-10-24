@@ -1,6 +1,6 @@
 # Software Engineer
 
-#### Technical Skills: JavaScript, Python, SQL, HTML5, CSS3, React,
+#### Technical Skills: JavaScript, Java, Python, SQL, JQuery, Angular, HTML5, CSS3, React
 
 ## Education
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
