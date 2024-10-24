@@ -8,7 +8,8 @@
 
 ## Work Experience
 **Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
-- Developed data models, pipelines and configured MongoDB.
+- Developed of the e-commerce application and integrated REST APIs in Python across backend services and Mongo DB.
+- Developed data management system, pipelines and configured MongoDB.
 - Built report and dashboards.
 
 **Software Engineer @ KPMG Global Services (November 2020 - Aug 2023)**
