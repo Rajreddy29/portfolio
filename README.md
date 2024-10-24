@@ -1,4 +1,4 @@
-# Software Engineer/Data Analyst
+# Software Engineer
 
 #### Technical Skills: JavaScript, Python, SQL, HTML5, CSS3, React,
 
@@ -7,13 +7,19 @@
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
 ## Work Experience
-**Machine Learning Intern @ Eitacies Inc. (September 2024-Present)**
+**Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
+-
 - Developed data models, pipelines and configured MongoDB.
 - Built report and dashboards.
 
-**Analyst @ KPMG Global Services (November 2020 - Aug 2023)**
-- Developed customer analytics automation systems and transformed KPMG engagement tools.
-- Built RESTful APIs, and implemented CI/CD pipelines for real-time service monitoring.
+**Software Engineer @ KPMG Global Services (November 2020 - Aug 2023)**
+- Optimized web application for one of the top Fintech company in the US, by automating the core financial tasks, integrations and workflow operations.
+- Transformed Sentinel (KPMG's client engagement acceptance tool) by optimizing server-side and client-side of the application, and Angular-based dashboards, where the tool supports 10,000+ KPMG audit personnel globally and reducing client onboarding time by 30%.
+- Maintained a comprehensive testing protocol for the platform upgrades to certify all functionalities in the production.
+- Developed application catalogs, integrated jQuery for responsive UI elements for KGS internal app.
+- Implemented CI/CD pipelines between internal applications with real-time pipeline monitoring.
+- Monitored application performance and activity, identified and resolved issues.
+- Contributed to KPMG hackathons, where our project ranked as top 3 at KGS in 2022.
 
 ## Certifications
 [Certificates Link](https://learn.microsoft.com/en-us/users/shreshtagundoju-0658/transcript/73k6xcgy4rw1wxx)
