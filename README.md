@@ -8,7 +8,6 @@
 
 ## Work Experience
 **Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
--
 - Developed data models, pipelines and configured MongoDB.
 - Built report and dashboards.
 
