@@ -49,7 +49,7 @@ Developed BankerBot, an AI-powered banking chatbot using Amazon Lex and AWS Lamb
 ### AWS CI/CD Pipeline Implementation for Java Web Application
 [Github link](https://github.com/shreshtagundoji/AWS-CI-CD-Pipeline-CloudFormation)
 
-Developed and deployed an automated CI/CD pipeline using **AWS services**, Maven, and Apache Tomcat, reducing deployment time by 7 hours, and enhancing scalability and maintainability on EC2.
+Developed and deployed an automated CI/CD pipeline using **AWS services** , Maven, and Apache Tomcat, reducing deployment time by 7 hours, and enhancing scalability and maintainability on EC2.
 
 **Subject Areas**: Java, AWS, Maven, Apache Tomcat <br />
 
