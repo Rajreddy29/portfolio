@@ -1,7 +1,6 @@
 # Software Engineer
 
 
-
 #### Technical Skills: JavaScript, Java, Python, SQL, JQuery, Angular, HTML5, CSS3, React
 
 ## Education
