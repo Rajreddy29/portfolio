@@ -14,10 +14,7 @@
 
 **Software Engineer @ KPMG Global Services (November 2020 - Aug 2023)**
 - Optimized web application for one of the top Fintech company in the US, by automating the core financial tasks, integrations and workflow operations.
-- Transformed Sentinel application by optimizing server-side and client-side of the application, reducing client onboarding time by 30%.
-- Maintained a comprehensive testing protocol for the platform upgrades to certify all functionalities in the production.
-- Built Angular-based dashboards, used by 10,000+ KPMG audit personnel globally.
-- Developed application catalogs, integrated jQuery for responsive UI elements for KGS internal app.
+- Built Angular-based dashboard and application catalogs, integrated jQuery for responsive UI elements for KGS internal app.
 - Implemented CI/CD pipelines between internal applications with real-time pipeline monitoring.
 - Monitored application performance and activity, identified and resolved issues.
 - Contributed to KPMG hackathons, where our project ranked as top 3 at KGS in 2022.
