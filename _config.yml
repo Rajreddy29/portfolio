@@ -1,5 +1,6 @@
 title: Shreshta Gundoju
-# logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+#logo: /assets/headshot_circle.png
+description: Thanks for stopping by my portfolio! Grab a coffee and please browse around the projects that are of interest to you!  <br /> <br /> Feel free to contact me via my personal email! <br /> shreshtagundoji@gmail.com
+show_downloads: false
+google_analytics: true
 theme: jekyll-theme-minimal
