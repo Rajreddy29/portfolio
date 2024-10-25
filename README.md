@@ -6,8 +6,8 @@
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
-Linkedin: [https://www.linkedin.com/in/haruka-takagi/](https://www.linkedin.com/in/haruka-takagi/) <br />
-Email: haruka.takagi.datascience@gmail.com   
+Linkedin: [linkedin.com/in/shreshtagundoju/](https://www.linkedin.com/in/shreshtagundoju/) <br />
+Email: shreshtagundoji@gmail.com 
 
 ## Work Experience
 **Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
