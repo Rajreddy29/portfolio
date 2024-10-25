@@ -3,7 +3,7 @@
 #### Technical Skills: JavaScript, Java, Python, SQL, JQuery, Angular, HTML5, CSS3, React
 
 ## Education
-- M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
+- M.S., Engineering Science - AI | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
 ## Work Experience
@@ -40,7 +40,7 @@ Optimized a full-stack chess application with interactive UI using Python, reinf
 
 Developed BankerBot, an AI-powered banking chatbot using Amazon Lex and AWS Lambda, enabling users to check account balances and transfer funds securely and an automated deployment via AWS CloudFormation that reduced setup time by 50%.
 
-**Subject Areas**: Python, AWS Lambda, Amazon Lex Flask <br /> 
+**Subject Areas**: Python, AWS Lambda, Amazon Lex <br /> 
 
 [3. AWS CI/CD Pipeline Implementation for Java Web Application](https://github.com/shreshtagundoji/AWS-CI-CD-Pipeline-CloudFormation)
 
