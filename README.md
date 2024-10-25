@@ -60,8 +60,7 @@ Utilized **Python** and **Deep Reinforcement Learning** techniques to optimize t
 
 **Subject Areas**: Python, Reinforcement Learning, SUMO <br /> 
 
-### Invoice Detection and Text Extraction
-[Github link](https://github.com/shreshtagundoji/PaddleOCR-InvoiceDetection)
+[6. Invoice Detection and Text Extraction](https://github.com/shreshtagundoji/PaddleOCR-InvoiceDetection)
 
 Built an automated system for detecting and extracting information from receipts using **Computer Vision and NLP techniques** - PaddleOCR. The system will streamline the process of handling receipts by accurately identifying and extracting key details such as receipt number, date, total amount, and vendor information from scanned or digital receipts.
 
