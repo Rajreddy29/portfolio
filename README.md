@@ -6,7 +6,7 @@
 - M.S., Artificial Intelligence | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
-Linkedin: [linkedin.com/in/shreshtagundoju/](https://www.linkedin.com/in/shreshtagundoju/) <br />
+Linkedin: [linkedin.com/in/shreshtagundoju](https://www.linkedin.com/in/shreshtagundoju/) <br />
 Email: shreshtagundoji@gmail.com 
 
 ## Work Experience
