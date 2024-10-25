@@ -1,16 +1,14 @@
 # Software Engineer
 
-#### Technical Skills: JavaScript, Java, Python, SQL, JQuery, Angular, HTML5, CSS3, React
-
 ## Education
 - M.S., Engineering Science - AI | State University of New York at Buffalo (December 2024)
 - B.Tech, Computer Science & Engineering | Jawaharlal Nehru Technological University (Sept 2020)
 
 ## Work Experience
 **Software Engineer Intern @ Eitacies Inc. (September 2024-Present)**
-- Contributed in the developement of the e-commerce application and integrated REST APIs in Python across backend services and Mongo DB.
-- Developed data management system and configured MongoDB.
-- Built report and dashboards.
+- Built interactive reports and dashboards to track and analyze the RFP's (Request for Proposal) of multiple vendors and companies.
+- Contributed in the development of risk compliance application that monitors and enhances security of virtual meetings.
+- Developed data management system, complex data models and configured MongoDB.
 
 **Software Engineer @ KPMG Global Services (November 2020 - Aug 2023)**
 - Optimized web application for one of the top Fintech company in the US, by automating the core financial tasks, integrations and workflow operations.
