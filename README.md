@@ -1,5 +1,7 @@
 # Software Engineer
 
+
+
 #### Technical Skills: JavaScript, Java, Python, SQL, JQuery, Angular, HTML5, CSS3, React
 
 ## Education
@@ -32,36 +34,32 @@ Email: shreshtagundoji@gmail.com
 - **Deeplearning.ai** : Machine Learning Specialization
 
 ## Projects
-### Full-Stack Chess Application with AI Opponent		
-[Github link](https://github.com/shreshtagundoji/Chess-Application-Python)
+[1. Full-Stack Chess Application with AI Opponent](https://github.com/shreshtagundoji/Chess-Application-Python)
 
 Optimized a full-stack chess application with interactive UI using Python, reinforcement learning, and Flask, reducing AI response time by 7 seconds while improving gameplay experience for users.
 
 **Subject Areas**: Python, Reinforcement Learning, Flask <br /> 
 
-### Banking AI Chatbot 
-[Github link](https://github.com/shreshtagundoji/BankingBot-AWS-Lambda)
+
+[2. AI Chatbot for Banking](https://github.com/shreshtagundoji/BankingBot-AWS-Lambda)
 
 Developed BankerBot, an AI-powered banking chatbot using Amazon Lex and AWS Lambda, enabling users to check account balances and transfer funds securely and an automated deployment via AWS CloudFormation that reduced setup time by 50%.
 
 **Subject Areas**: Python, AWS Lambda, Amazon Lex Flask <br /> 
 
-### AWS CI/CD Pipeline Implementation for Java Web Application
-[Github link](https://github.com/shreshtagundoji/AWS-CI-CD-Pipeline-CloudFormation)
+[3. AWS CI/CD Pipeline Implementation for Java Web Application](https://github.com/shreshtagundoji/AWS-CI-CD-Pipeline-CloudFormation)
 
 Developed and deployed an automated CI/CD pipeline using **AWS services** , Maven, and Apache Tomcat, reducing deployment time by 7 hours, and enhancing scalability and maintainability on EC2.
 
 **Subject Areas**: Java, AWS, Maven, Apache Tomcat <br />
 
-### Fake News Detection
-[Github link](https://github.com/shreshtagundoji/Fake-News-Detection-Kaggle/tree/main)
+[4. Fake News Detection](https://github.com/shreshtagundoji/Fake-News-Detection-Kaggle/tree/main)
 
 Developed an advanced text classification model. The model employs a hybrid architecture that combines traditional and **Deep Learning** approaches like text embedding, CNN, LSTM, and dropout layers, achieving 99.46% accuracy, demonstrating effective learning and generalization in text classification tasks.
 
 **Subject Areas**: Python, Deep Learning, NLP <br /> 
 
-### Traffic Signal Control System
-[Github link](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
+[5. Traffic Signal Control System](https://github.com/shreshtagundoji/Traffic-Lights-Control-RL/blob/main/Final_Report.pdf)
 
 Utilized **Python** and **Deep Reinforcement Learning** techniques to optimize traffic signal control in a simulated environment. It employs the SUMO (Simulation of Urban MObility) traffic simulation framework along with the Stable Baselines3 library for RL implementation, reducing vehicle wait times by 25%.
 
